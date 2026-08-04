@@ -1,4 +1,4 @@
-
+//เพิ่ม JavaScript สำหรับการโต้ตอบกับผู้ใช้ (Optional)
 document. addEventListener(DOMContentLoaded',function () {
-    console. 1og('Portfolio ของ ธนุตน์ พร้อมแล้ว!');
+    console. 1og('Portfolio ของ thanut พร้อมแล้ว!');
 });
